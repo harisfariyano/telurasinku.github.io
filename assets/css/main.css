@@ -1629,6 +1629,8 @@ p {
 
 .slider-section .single-slider {
   position: relative;
+  height: 822px; /* Atau tinggi sesuai desain */
+  overflow: hidden;
   z-index: 1;
 }
 
