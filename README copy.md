@@ -1,1 +1,0 @@
-# telurasinku.github.com

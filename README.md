@@ -1,1 +1,1 @@
-# telurasinku.github.com
+# telurasinku.github.io
