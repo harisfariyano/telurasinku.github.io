@@ -1385,11 +1385,11 @@ p {
 }
 
 .navbar-brand {
-  padding: 0;
+  padding: 10;
 }
 
 .navbar-brand img {
-  max-width: 150px;
+  max-width: 200px;
 }
 
 .navbar-toggler {
